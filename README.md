@@ -12,3 +12,10 @@
 4. [Deu a louca no gerente](./DesafiosIniciais_JavaScript_DecolaTech/DeuLoucaGerente.js)
 
 ---
+
+### <ins>[Desafios Intermediários JavaScript🚀](./DesafiosIntermediarios_JavaScript_DecolaTech)</ins>
+
+1. [Soma de Pares Consecutivos](./DesafiosIntermediarios_JavaScript_DecolaTech/SomaPares.js)
+2. [Lanche](./DesafiosIntermediarios_JavaScript_DecolaTech/Lanche.js)
+3. [Subtraindo o produto e a soma de um número inteiro](./DesafiosIntermediarios_JavaScript_DecolaTech/SubProdutoSoma.js)
+4. [Reduzindo um número a zero](./DesafiosIntermediarios_JavaScript_DecolaTech/ReduzindoNumero.js)
